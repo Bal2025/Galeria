@@ -1,5 +1,5 @@
 # Jak zalogować się do albumu fotograficznego balu ósmoklasistów 2025?
-
+## [Zaloguj się](https://bal2025.github.io/Galeria)
 Aby zalogować się do albumu, wykonaj następujące kroki:
 
 1.  **Wejdź na stronę internetową albumu:**
@@ -35,4 +35,4 @@ balosmoklasisty2025sp74@gmail.com
 
 ---
 
-## [Zaloguj się](https://bal2025.github.io/Galeria)
+# [Zaloguj się](https://bal2025.github.io/Galeria)
